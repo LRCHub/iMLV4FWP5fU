@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Start Over",
+  "base_artist": "The Beat Garden",
+  "createdAt": "2026-02-27T21:18:57.145955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "One Night Only",
+      "has_synced": true,
+      "path": "select/01_Start_Over_One_Night_Only.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Her Go and Start Over",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/02_Let_Her_Go_and_Start_Over_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Start Over",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/03_Let's_Start_Over_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/04_Start_Over_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/05_Start_Over_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/06_Start_Over_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/07_Start_Over_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "The New Division",
+      "has_synced": false,
+      "path": "select/08_Start_Over_The_New_Division.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "77 Bombay Street",
+      "has_synced": true,
+      "path": "select/09_Start_Over_77_Bombay_Street.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Start Over",
+      "artist": "Zac Brown Band",
+      "has_synced": false,
+      "path": "select/10_Start_Over_Zac_Brown_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Start Over - from Leave A Whisper sessions",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/11_Start_Over_-_from_Leave_A_Whisper_sessions_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Start Over (From Leave A Whisper Sessions)",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/12_Start_Over_(From_Leave_A_Whisper_Sessions)_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How Do You Start Over - Remastered 2015",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/13_How_Do_You_Start_Over_-_Remastered_2015_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If We Could Start Over",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/14_If_We_Could_Start_Over_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That's How You Start Over",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/15_That's_How_You_Start_Over_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let's Start Over Again",
+      "artist": "Crown of Thorns",
+      "has_synced": false,
+      "path": "select/16_Let's_Start_Over_Again_Crown_of_Thorns.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Start Over (Acoustic; Live from Leave a Whisper Sessions)",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/17_Start_Over_(Acoustic;_Live_from_Leave_a_Whisper_Sessions)_Shinedown.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Start Over",
+      "artist": "THE BEAT GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_Start_Over_THE_BEAT_GARDEN.txt"
+    }
+  ]
+}
